@@ -661,6 +661,16 @@ caption {
   .contain-table {
     width: 100%; } }
 
+    .submit-button {
+      margin-top: 20px;
+    }
+    
+    .form-input {
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 2px;
+      font-size: 20px;
+    }
 /* Navigation
   =============== */
 /* Layout
